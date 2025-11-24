@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Reward Points Calculator
 
 Hello! The purpose of this app is to take customer transaction history and calculate how many reward points they should earn based on the money the spent for each month.
 
