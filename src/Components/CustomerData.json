@@ -1,0 +1,32 @@
+{
+    "Customers": [
+        {
+            "customerID" : 1,
+            "customerName": "Mickey Mouse",
+            "transactions": {
+                "January": [1,200,3,4,57],
+                "February": [11,22,33,44,55],
+                "March": [150,120,180,35]
+            }
+        },
+        {
+            "customerID" : 2,
+            "customerName": "Donald Duck",
+            "transactions": {
+                "January": [1,200,3,4,57],
+                "February": [11,22,33,44,55,66],
+                "March": [120]
+            }
+        },
+        {
+            "customerID" : 3,
+            "customerName": "Goofy",
+            "transactions": {
+                "January": [1,200,37,46,57],
+                "February": [11,22,33,44,55,66,77],
+                "March": [100000, 62, 500, 12]
+            }
+        }
+    ]
+
+}
